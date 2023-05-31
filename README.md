@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm HMZA</h1>
 <h3 align="center">I write code and build stuff.</h3>
-<p align="center"> I'm a developer with a passion of creating impactful, scalable and secure web applications with using latest trends and technolgies. I love to contributing in open-source projects and collaborating with commnunites. Everyday, I'm improving my skills and trying to become a better version of me.</p>
+<p align="center"> I'm a developer with a passion for creating impactful, scalable and secure web applications with using latest trends and technolgies. I love to contributing in open-source projects and collaborating with commnunites. Everyday, I'm improving my skills and trying to become a better version of me.</p>
 
 ### <p align="center">Technical Skills</p>
 
