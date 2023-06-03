@@ -20,3 +20,8 @@
   </a>
 </p>
 
+### <p align="center">Contributions</p>
+<p align="center">
+  <img src="https://github.com/hmzakhalid/hmzakhalid/blob/output/github-contribution-grid-snake.svg">
+</p>
+
