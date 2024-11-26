@@ -6,17 +6,17 @@
 
 <p align="center">
   <a href="https://hmzakhalid.com">
-    <img src="https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,typescript,next,mysql" />
+    <img src="https://skillicons.dev/icons?i=rust,js,rocket,express,react,nodejs,typescript,next,mysql" />
   </a>
 </p>
 <p align="center">
   <a href="https://hmzakhalid.com">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma,git,github,wordpress" />
+    <img src="https://skillicons.dev/icons?i=actix,html,css,bootstrap,tailwind,figma,git,github,wordpress" />
   </a>
 </p>
 <p align="center">
   <a href="https://hmzakhalid.com">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,pytorch,tensorflow,kubernetes,docker,aws" />
+    <img src="https://skillicons.dev/icons?i=azure,python,django,fastapi,pytorch,tensorflow,kubernetes,docker,aws" />
   </a>
 </p>
 
