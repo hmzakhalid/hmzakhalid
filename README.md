@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://hmzakhalid.com"><img style="margin-bottom: -10px" src="https://readme-typing-svg.demolab.com?font=Noto+Nastaliq+Urdu&weight=700&size=32&duration=700&pause=1000&color=F7F7F7&vCenter=true&width=120&height=40&lines=Hamza;%D8%AD%D9%85%D8%B2%DB%81;+%E3%83%8F%E3%83%A0%E3%82%B6;%E5%93%88%E5%A7%86%E6%89%8E" alt="Hamza Typing SVG" /></a></h1>
 <h3 align="center">I write code and build stuff.</h3>
-<p align="center"> I'm a developer with a passion for creating impactful, scalable and secure web applications with using latest trends and technolgies. I love to contributing in open-source projects and collaborating with commnunites. Everyday, I'm improving my skills and trying to become a better version of me.</p>
+<p align="center"> I'm a developer with a passion for creating impactful, scalable and secure applications with using latest trends and technolgies.</p>
 
 ### <p align="center">Technical Skills</p>
 
